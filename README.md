@@ -1,27 +1,31 @@
 ### Nayeong Kim
 
-Hi there! 👋 This is my [cv](./CV_NAYEONG_KIM.pdf)
+Hi there. This is my [cv](./CV_Nayeong_Kim.pdf)!
 
-## 💬 Education & Experience
-- KAIST([School of Computing](https://cs.kaist.ac.kr/), [Mathematical Science](https://mathsci.kaist.ac.kr/home/)) (Mar. 2016 ~ )
-- [Women Techmakers Scholar](https://www.womentechmakers.com/) 2019
-- STEP Internship in Android Media APIs team, Google Korea (Jan. 2020 ~ Feb. 2020)
-- Internship in [KAIST VCLAB](http://vclab.kaist.ac.kr/) (Jul. 2020 ~ Aug. 2020)
+## Education
+- **KAIST** *MAR 2016 - AUG 2021* Major in Computer Science, Second Major in Mathematical Science
+- **Korea Science Academy of KAIST** *MAR 2012 - FEB 2015* High School
 
-## 🌱 Currently Working on
-- Python Tutoring in Daedeok Highschool (Apr. 2019 ~ )
-- 
+## Experience
+### Internship
+- **Moloco**, Seoul, Korea *DEC 2020 - Present* Software Engineering Intern in Android Media APIs Team
+- **Google**, Seoul, Korea *JAN 2020 - FEB 2020* Software Engineering STEP Intern
+### Research
+- **KAIST VCLAB** *MAR 2020 - AUG 2020* Individual Study and Internship
+### Teaching
+- **Python Tutoring** *MAR 2019 - DEC 2020* Taught Python Programming to School Club in Daedeok High School
+### Awards and Scholarships
+- **2019 APAC [Women Techmakers Scholar](https://www.womentechmakers.com/)**
 
-## 🔭 Programming Languages
-- Python (Intermediate)
-- Java (Intermediate)
-- C++ (Intermediate)
-- Scala (Beginner)
+## Skills
+### Programming Languages
+Python, Java, C++, Scala, Matlab, LaTeX
+### Frameworks/Libraries
+Pytorch, Flask, Pandas, Matplotlib, Scikit-Learn, Numpy/Scipy, OpenGL, OpenCV
 
-## 😄 How to Reach Me
-- Email : grace021@kaist.ac.kr, grace12021@gmail.com
-- LinkedIn : [grace12021@gmail.com](https://www.linkedin.com/in/nayeong-kim-545975192/)
-- Blog : grace12021.github.io
+## How to Reach Me
+- Email : grace021 (at) kaist.ac.kr, grace12021 (at) gmail.com
+- LinkedIn : [Link](https://www.linkedin.com/in/nayeong-kim-545975192/)
 <!--
  Hi there 👋
 **grace12021/grace12021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +40,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🌱 Currently Working on
+### Research
+- **Implementation of the Simulation of Community Detection Using Random Matrix
+
 -->
