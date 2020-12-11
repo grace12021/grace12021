@@ -1,6 +1,6 @@
 ### Nayeong Kim
 
-Hi there! 👋
+Hi there! 👋 This is my [cv](./CV_NAYEONG_KIM.pdf)
 
 ## 💬 Education & Experience
 - KAIST([School of Computing](https://cs.kaist.ac.kr/), [Mathematical Science](https://mathsci.kaist.ac.kr/home/)) (Mar. 2016 ~ )
