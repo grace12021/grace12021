@@ -8,7 +8,7 @@ Hi there. This is my [cv](./CV_Nayeong_Kim.pdf)!
 
 ## Experience
 ### Internship
-- **Moloco**, Seoul, Korea *DEC 2020 - Present* Software Engineering Intern in Android Media APIs Team
+- **Moloco**, Seoul, Korea *DEC 2020 - Present* Software Engineering Intern in Android Media APIs Team (starting soon)
 - **Google**, Seoul, Korea *JAN 2020 - FEB 2020* Software Engineering STEP Intern
 ### Research
 - **KAIST VCLAB** *MAR 2020 - AUG 2020* Individual Study and Internship
