@@ -37,9 +37,10 @@ Taught mathematics and English twice a week to two middle school students from l
 - 2019 APAC [Women Techmakers Scholar]("https://www.womentechmakers.com/")
 - Samsung Research Scholarship *2019 FALL - 2021 SPRING*
 
-## How to Reach Me
-- Email : grace021 (at) kaist.ac.kr, nkim10 (at) sfsu.edu, grace12021 (at) gmail.com
-- LinkedIn : [Link](https://www.linkedin.com/in/nayeong-kim-545975192/)
+### How to Reach Me
+- Homepage: https://springcat.dev/
+- Email: grace021 (at) kaist.ac.kr, nkim10 (at) sfsu.edu, grace12021 (at) gmail.com
+- LinkedIn: [Link](https://www.linkedin.com/in/nayeong-kim-545975192/)
 <!--
  Hi there 👋
 **grace12021/grace12021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
