@@ -1,30 +1,44 @@
-### Nayeong Kim
+## Nayeong Kim
 
-Hi there. This is my [cv](./CV_Nayeong_Kim.pdf)!
+You can see more details in my [cv](CV_Nayeong_Kim.pdf)
 
-## Education
-- **KAIST** *MAR 2016 - AUG 2021* Major in Computer Science, Second Major in Mathematical Science
-- **Korea Science Academy of KAIST** *MAR 2012 - FEB 2015* High School
+### Education
+- **San Francisco State University** *AUG 2021 - JUL 2023*\
+Mathematics MA
+- **KAIST** *MAR 2016 - AUG 2021*\
+School of Computing, Mathematical Science
+- **Korea Science Academy of KAIST** *MAR 2012 - FEB 2015*\
+High School
 
-## Experience
 ### Internship
-- **Moloco**, Seoul, Korea *DEC 2020 - Present* Software Engineering Intern in Android Media APIs Team (starting soon)
-- **Google**, Seoul, Korea *JAN 2020 - FEB 2020* Software Engineering STEP Intern
-### Research
-- **KAIST VCLAB** *MAR 2020 - AUG 2020* Individual Study and Internship
-### Teaching
-- **Python Tutoring** *MAR 2019 - DEC 2020* Taught Python Programming to School Club in Daedeok High School
-### Awards and Scholarships
-- **2019 APAC [Women Techmakers Scholar](https://www.womentechmakers.com/)**
+- **Moloco**, Seoul, Korea *DEC 2020 - MAR 2021*\
+Software Engineering Intern. Backend Engineer in the Moloco Cloud team.
+- **Google**, Seoul, Korea *JAN 2020 - FEB 2020*\
+Software Engineering STEP Intern. Developed a virtual testing library for MediaRouter in Androidx as part of the Android Media APIs team.
 
-## Skills
-### Programming Languages
-Python, Java, C++, Scala, Matlab, LaTeX
-### Frameworks/Libraries
-Pytorch, Flask, Pandas, Matplotlib, Scikit-Learn, Numpy/Scipy, OpenGL, OpenCV
+### Research
+- **Individual Study** *SEP 2020 - MAR 2021*\
+With Professor Ji Oon Lee. Studied random matrices and their applications in community detection.
+- **KAIST VCLAB** *MAR 2020 - AUG 2020*\
+Individual Study and Internship. Visual Computing Lab, with Professor Min H. Kim
+- **Undergraduate Research Program** *JAN 2019 - JUL 2019*\
+Crawled Blue House(Office of the President of South Korea) petitions and bills of the National Assembly of South Korea using their public data APIs. Analyzed and visualized the data using pandas and matplotlib.
+
+### Teaching
+- **Python Tutoring** *MAR 2019 - DEC 2020*\
+KAIST Software Education Center. Taught Python programming to a class of 23 high school students at Daedeok High
+School.
+- **Python Tutor** *MAR 2019 - JUN 2019*\
+KAIST’s Global Institute for Talented Education. Teaching assistant for a Python course attended by 45 high school students.
+- **KB Hope Mentoring Program** *JUL 2018 - DEC 2018*\
+Taught mathematics and English twice a week to two middle school students from lowincome families.
+
+### Awards and Scholarships
+- 2019 APAC [Women Techmakers Scholar]("https://www.womentechmakers.com/")
+- Samsung Research Scholarship *2019 FALL - 2021 SPRING*
 
 ## How to Reach Me
-- Email : grace021 (at) kaist.ac.kr, grace12021 (at) gmail.com
+- Email : grace021 (at) kaist.ac.kr, nkim10 (at) sfsu.edu, grace12021 (at) gmail.com
 - LinkedIn : [Link](https://www.linkedin.com/in/nayeong-kim-545975192/)
 <!--
  Hi there 👋
