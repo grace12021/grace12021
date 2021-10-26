@@ -1,6 +1,6 @@
 ## Nayeong Kim
 
-You can see more details in my [cv](CV_Nayeong_Kim.pdf)
+You can see more details in my [cv](CV_Nayeong_Kim_.pdf)
 
 ### Education
 - **San Francisco State University** *AUG 2021 - JUL 2023*\
