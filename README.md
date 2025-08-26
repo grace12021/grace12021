@@ -4,9 +4,10 @@ You can see more details in my [cv](CV_Nayeong_Kim.pdf)!
 
 ### Education
 - **UC Santa Barbara** *SEP 2024 - Now*\
-Mathematics PhD
+Mathematics PhD, Studying TQFT
 - **San Francisco State University** *AUG 2021 - DEC 2023*\
-Mathematics MA, Thesis: [Degrees of Tropical Root Surfaces of Classical Root Systems](https://scholarworks.calstate.edu/concern/theses/tb09jd33j)
+Mathematics MA, Advised by Federico Ardila-Mantilla,
+Thesis: [Degrees of Tropical Root Surfaces of Classical Root Systems](https://scholarworks.calstate.edu/concern/theses/tb09jd33j)
 - **KAIST** *MAR 2016 - AUG 2021*\
 School of Computing, Mathematical Science
 - **Korea Science Academy of KAIST** *MAR 2012 - FEB 2015*\
@@ -23,7 +24,9 @@ Software Engineering Intern. Backend Engineer on the Moloco Cloud team.
 Software Engineering STEP Intern. Developed a shadow testing library for MediaRouter in Androidx on the Android Media APIs team.
 
 ### How to Reach Me
-- LinkedIn: [Link](https://www.linkedin.com/in/nayeong-kim-545975192/)
+- [LinkedIn](https://www.linkedin.com/in/nayeong-kim-545975192/)
+- [Homepage](www.nayeong.dev)
+- [Blog](www.springcat.dev)
 <!--
  Hi there 👋
 **grace12021/grace12021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
